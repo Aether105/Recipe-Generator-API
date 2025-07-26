@@ -50,5 +50,5 @@ http://localhost:3000
 
 ## Credits
 
-Created by Aether105
+Created by Aether105. 
 Thought it'd be a cool, simple project to do, inspired by an enjoyment of discovering new meals from what's already in the kitchen!
